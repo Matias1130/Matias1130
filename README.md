@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, my name is Matias Rivera</h1>
 
-<!--
-**Matias1130/Matias1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img scr="dev.gif">
 
-Here are some ideas to get you started:
+<h2>I am a web development student, who is currently studying javascript.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>I have knowledge in:
+<li>Html5</li>
+<li>Css3</li>
+<li>Sass</li>
+<li>Boostrap</li>
+<li>Git Hub</li>
+<li>Git</li>
+</ul>
