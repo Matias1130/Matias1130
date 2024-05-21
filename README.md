@@ -1,6 +1,6 @@
 <h1>Hi, my name is Matias Rivera</h1>
 
-<img scr="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+![Descripción de la imagen](https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif)
 
 <h2>I am a web development student, who is currently studying javascript.</h2>
 
