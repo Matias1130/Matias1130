@@ -1,6 +1,6 @@
 <h1>Hi, my name is Matias Rivera</h1>
 
-![Descripción de la imagen](https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif)
+![developer gif](https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif)
 
 <h2>I am a web development student, who is currently studying javascript.</h2>
 
@@ -12,3 +12,5 @@
 <li>Git Hub</li>
 <li>Git</li>
 </ul>
+
+![developer gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
